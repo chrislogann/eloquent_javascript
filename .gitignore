@@ -9,4 +9,5 @@
 
 # Allow python files
 !*.js
+!*.py
 !.gitignore
