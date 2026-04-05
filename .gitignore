@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Search directory
+!*/
+
+# Search subfolders within directory
+!**/
+
+# Allow python files
+!*.js
+!.gitignore
