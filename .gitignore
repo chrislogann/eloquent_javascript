@@ -7,7 +7,7 @@
 # Search subfolders within directory
 !**/
 
-# Allow python files
+# Allow files
 !*.js
 !*.py
 !.gitignore
